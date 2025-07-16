@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Geoportal "Ciudad Victoria"</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f8fb;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0077b6;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+        footer {
+            background-color: #ddd;
+            padding: 10px;
+            text-align: center;
+            font-size: 0.9em;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Geoportal "Ciudad Victoria"</h1>
+    </header>
+
+    <main>
+        <p>Bienvenido al Geoportal de Ciudad Victoria. Aquí podrás acceder a información geográfica, mapas interactivos y datos relevantes del municipio.</p>
+        <!-- Aquí puedes insertar un visor de mapas o enlaces a datos -->
+    </main>
+
+    <footer>
+        &copy; 2025 Municipio de Ciudad Victoria. Todos los derechos reservados.
+    </footer>
+</body>
+</html>
